@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>king<title>
+</head>
+<body>Friends Contact LIst
+<table border="1">
+<tr>
+    <th>Name</th>
+    <th>Phone Number</th>
+    <th>Age</th>
+</tr>
+<tr>
+    <td>Geeb</td>
+    <td>0748400528</td>
+    <td>22</td>
+</tr>
+
+</body>
+</html>

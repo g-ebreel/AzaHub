@@ -1,0 +1,7 @@
+1. talk is cheap, show me the code 
+2. Every programming language has its unique set of rules called syntax
+3. In programming, syntax has to be strictly followed for the code to work as expected 
+
+ What is needed to learn HTML
+ 1. A browser
+ 2.a text editor,eg VS Code,sublime

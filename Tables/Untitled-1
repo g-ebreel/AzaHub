@@ -1,0 +1,29 @@
+<html>
+<header>
+<title>my contacts</title>
+</header>
+<body>
+<table style="width:100%">
+    <tr>
+        <th>Name</th>
+        <th>Phone number</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <th>Ken<th/>
+        <th>0712345678</th>
+        <th>29</th>
+    </tr>
+    <tr>
+        <th>Ann</th>
+        <th>0763623736</th>
+        <th>19</th>
+     </tr>
+     <tr>
+        <th>Geeb</th>
+        <th>0724285478</th>
+        <th>22</th>
+    </tr>
+    </body>
+    </html>
+    
