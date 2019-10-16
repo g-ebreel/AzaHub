@@ -1,0 +1,25 @@
+<html>
+        <link rel="stylesheet" href="style.css"> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="game.js"></script>
+    <!-- <head>
+        <title>car</title>
+    </head>
+    <body>
+        <div id="b" style="position:absolute;"> 
+        <img src="/home/gebreel/Downloads/car1.svg" width="200" height="300"></div>
+        <button class="button">move left</button></div>
+        <button class="button" div id="c">move right</div></button> -->
+         <!-- <img src="/home/gebreel/Downloads/car1.svg" width="200" height="300"> -->
+    </body>
+</html>    
+<script language="javascript">
+        function example_animate(px) {
+            $('#example').animate({
+                'marginLeft' : px
+            });
+        }
+    </script>
+    <input type="button" value="Move Left" onclick="example_animate('-=50px')" />
+    <input type="button" value="Move Right" onclick="example_animate('+=50px')" />
+    <div id="example"><img src="/home/gebreel/Downloads/car1.svg" width="200" height="300"></div>
